@@ -38,7 +38,7 @@ The Colab API will return the processed detection data in this crisp, simple JSO
   "status": "active",
   "detections": [
     {
-      "type": "pothole",
+      "type": "overspeeding",
       "confidence": 0.92,
       "bounding_box": [120, 50, 200, 150]
     },
